@@ -1,0 +1,31 @@
+
+{
+  "token": "NjM2OTA0ODM3MTExNDgwMzMx.Xfyr9w.R0Cc4KCp_kCiY4vNOgaVEK24jfY",
+  "prefix": "%",
+  "guildID": "621560553730736149",
+  "clientID": "636904837111480331",
+  "clientSecret": "_LRWrO6Kk0Yp0_mFQ3lfyd8-iarcBz-t",
+  "callbackURL": "https://wary-eocursor.glitch.me/callback",
+  "secret": "hhhfddgh",
+  "rethink": {
+    "host": "127.0.0.1",
+    "port": 28015,
+    "db": " database "
+  },
+  "useragent": "BOD",
+  "channels": {
+    "weblog": "624096233455222795",
+    "verification_log": "624096233455222795"
+  },
+  "roles": {
+    "staff": "572327928646598667",
+    "admins": "572327928646598667",
+    "bot": "621560624941629441",
+    "bot_developer": "621560624941629441",
+    "verified_developer": "621560624941629441",
+    "verified_bot": "621560624941629441"
+  },
+  "emojis": {
+    "verified": ""
+  }
+}
