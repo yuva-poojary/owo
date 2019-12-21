@@ -1,6 +1,6 @@
 
 {
-  "token": "NjM2OTA0ODM3MTExNDgwMzMx.Xf2gCg.MKAs_r9H-rJhqzbpK_Gw7uLPSOE",
+  "token": process.env.token,
   "prefix": "%",
   "guildID": "621560553730736149",
   "clientID": "636904837111480331",
