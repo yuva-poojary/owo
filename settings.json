@@ -1,5 +1,5 @@
 {
-  "token": process.env.token,
+  "token": "",
   "prefix": "%",
   "guildID": "621560553730736149",
   "clientID": "636904837111480331",
