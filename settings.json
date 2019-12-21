@@ -7,7 +7,7 @@
   "callbackURL": "https://wary-eocursor.glitch.me/callback",
   "secret": "hhhfddgh",
   "rethink": {
-    "host": "127.0.0.1",
+    "host": "locahost",
     "port": 28015,
     "db": " database "
   },
